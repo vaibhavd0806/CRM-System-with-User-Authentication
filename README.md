@@ -1,5 +1,3 @@
-Sure Vaibhav! Here's an **interactive-style README** that feels more like a walkthrough for users:
-
 ---
 
 # 📘 CRM System with User Authentication (Interactive CLI App)
